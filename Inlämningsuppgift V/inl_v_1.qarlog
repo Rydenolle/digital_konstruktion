@@ -1,7 +1,7 @@
-Quartus Prime Archive log --	C:/Ela24/Digital Konstruktion/Inlämningsuppgift V/inl_v_1.qarlog
+Quartus Prime Archive log --	C:/Ela24/Digital Konstruktion/Inlämningsuppgifter/Inlämningsuppgift V/inl_v_1.qarlog
 
-Archive:	C:/Ela24/Digital Konstruktion/Inlämningsuppgift V/inl_v_1.qar
-Date:		Thu Jun 05 10:12:37 2025
+Archive:	C:/Ela24/Digital Konstruktion/Inlämningsuppgifter/Inlämningsuppgift V/inl_v_1.qar
+Date:		Mon Jun 16 08:55:45 2025
 Quartus Prime		20.1.0 Build 711 06/05/2020 SJ Lite Edition
 
 	=========== Files Selected: ===========
@@ -15,9 +15,3 @@ c:/ela24/digital_konstruktion/quartus/bin64/assignment_defaults.qdf
 
 	================ Status: ===============
 All files archived successfully.
-
-
-******* Archived project restoration attempt on Thu Jun 05 10:12:58 2025
-Source archive file:	C:/Ela24/Digital Konstruktion/Inlämningsuppgift V/inl_v_1.qar
-Archive was extracted into	C:/Ela24/Digital Konstruktion/Inlämningsuppgift V/inl_v_1_restored/
-		 - successfully.
